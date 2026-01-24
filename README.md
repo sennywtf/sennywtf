@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://imgur.com/eSNpZYl" alt="Banner" />
-</p>
+# <p align=center> <img src="https://imgur.com/eSNpZYl" width=128 height=128></p>
 
 
 ```python
