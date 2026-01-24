@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1455897998138806408/1464565411386232918/Design_fara_titlu_2.png" alt="Banner" />
+  <img src="https://imgur.com/a/huKVXyr" alt="Banner" />
 </p>
 
 
