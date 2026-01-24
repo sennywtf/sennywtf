@@ -1,5 +1,5 @@
 
-<p align=center> <img src="https://imgur.com/eSNpZYl" width=128 height=128></p>
+<p align=center> <img src="https://imgur.com/eSNpZYl.png" width=128 height=128></p>
 
 ```python
 class Developer:
