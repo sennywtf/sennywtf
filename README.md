@@ -16,5 +16,6 @@ class Developer:
 hello = Developer()
 ```
 <p align="center">
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sennywtf)
+  <img src="https://komarev.com/ghpvc/?username=sennywtf" alt="Profile view counter on GitHub" />
 </p>
+
