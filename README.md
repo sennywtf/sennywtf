@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://cdn.discordapp.com/attachments/1455897998138806408/1464565411386232918/Design_fara_titlu_2.png?ex=6975ee54&is=69749cd4&hm=13cca6735d8081cade2ce39b5617b53f49c52ceca6c1e2abc0da683492853a3a&)">
+  <img src="https://cdn.discordapp.com/attachments/1455897998138806408/1464565411386232918/Design_fara_titlu_2.png" alt="Banner" />
 </p>
+
 
 ```python
 class Developer:
