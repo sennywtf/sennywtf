@@ -15,3 +15,5 @@ class Developer:
 
 hello = Developer()
 ```
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sennywtf)
