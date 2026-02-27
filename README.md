@@ -12,7 +12,7 @@ class Developer:
             "I mostly work on Discord bots using Python and build websites, "
             "and I’m currently aiming to learn more JavaScript."
         )
-        self.languages = ["python", "html", "css"] 
+        self.languages = ["python", "html", "css", "javascript"] 
         self.code_editors = ["Visual Studio Code"]
         self.links = ["https://senny.wtf"]
 
