@@ -4,11 +4,10 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "senny.wtf"
-        self.age = 15
+        self.name = "Stefanut"
         self.location = "Bucharest, Romania"
         self.about_me = (
-            "I’m Senny, a 15-year-old who’s been coding for more than four years. "
+            "I’m Stefanut, who’s been coding for more than four years. "
             "I mostly work on Discord bots using Python and build websites, "
             "and I’m currently aiming to learn more JavaScript."
         )
